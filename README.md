@@ -2,7 +2,7 @@ TSLA INTRADAY LEVELS DASHBOARD
 A live, interactive dashboard built with Streamlit to automatically track and plot key intraday levels for TSLA
 
 **CHECK OUT THE LIVE APP!**
-[https://tsla-levels.steamlit.app](https://www.google.com/search?q=https://tsla-levels.streamlit.app)
+https://tsla-intradaydashboard.streamlit.app/
 
 **Why I Built This**
 
